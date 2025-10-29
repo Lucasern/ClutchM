@@ -1,0 +1,19 @@
+This project "ClutchM" uses the following third-party libraries:
+
+1. ttkbootstrap — MIT License
+   License text: https://github.com/israel-dryer/ttkbootstrap/blob/master/LICENSE
+
+2. pynput — LGPL v3
+   License text: https://github.com/moses-palmer/pynput/blob/master/LICENSE
+   Notes: You are allowed to replace or modify this component under the terms of LGPL v3.
+          Source code available at: https://github.com/moses-palmer/pynput
+
+3. keyboard — MIT License
+   License text: https://github.com/boppreh/keyboard/blob/master/LICENSE
+
+4. requests — Apache License 2.0
+   License text: https://github.com/psf/requests/blob/main/LICENSE
+
+Instructions:
+- If you redistribute this application, include this file along with it.
+- For bundled executables, ensure that the licenses above are still accessible to users.
